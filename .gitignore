@@ -1,0 +1,37 @@
+# default stuff
+.idea/
+classes/
+.gradle/
+gradle/wrapper/gradle-wrapper.properties
+.settings/
+.project
+.classpath
+.springBeans
+*.iml
+velocity.log
+target/
+build/
+*/logs/*
+*access_log
+._*
+.*.swp
+.DS_Store
+*CVS/*
+*.svn/*
+*/Thumbs.db
+*Thumbs.db
+*Untitled-*
+build.properties
+application.log
+*.ipr
+*.iws
+
+# Junk from R
+.RData
+*.Rout
+Rplots.pdf
+
+*/metrics/*
+*/.lastGoodConfigs/*
+*.versionsBackup
+/logs/
