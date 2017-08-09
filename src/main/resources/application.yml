@@ -10,5 +10,4 @@ spring:
       server:
         git:
           uri: https://github.com/velocodealer/config-provider/
-          searchPaths: vcda-dealer-pricing-rules-provider
-
+          searchPaths: vcda-dealer-pricing-rules-provider.gitignore
